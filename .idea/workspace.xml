@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7fd9e6d7-5a9f-482c-8684-f516a5d98e42" name="Changes" comment="" />
+    <list default="true" id="7fd9e6d7-5a9f-482c-8684-f516a5d98e42" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/db/base/13757/pg_internal.init" beforeDir="false" afterPath="$PROJECT_DIR$/data/db/base/13757/pg_internal.init" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/db/global/pg_control" beforeDir="false" afterPath="$PROJECT_DIR$/data/db/global/pg_control" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/db/global/pg_internal.init" beforeDir="false" afterPath="$PROJECT_DIR$/data/db/global/pg_internal.init" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/db/pg_stat/db_0.stat" beforeDir="false" afterPath="$PROJECT_DIR$/data/db/pg_stat/db_0.stat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/db/pg_stat/db_13757.stat" beforeDir="false" afterPath="$PROJECT_DIR$/data/db/pg_stat/db_13757.stat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/db/pg_stat/global.stat" beforeDir="false" afterPath="$PROJECT_DIR$/data/db/pg_stat/global.stat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/db/pg_wal/000000010000000000000001" beforeDir="false" afterPath="$PROJECT_DIR$/data/db/pg_wal/000000010000000000000001" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/try.py" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +23,9 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
@@ -26,6 +39,7 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="23UvWpoqsOjO4dLlKKV1MXjhPe9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -34,7 +48,8 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File" value="SHRINKER_CONFIG" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../email/Dockerized-Flask-Celery-RabbitMQ-Redis" />
+    <property name="jdk.selected.PYTHON_MODULE" value="Python 3.9 (browser_history)" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -70,5 +85,16 @@
       <updated>1641801525522</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
