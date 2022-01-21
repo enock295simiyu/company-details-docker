@@ -11,7 +11,7 @@ services:
     volumes:
       - ./data/db:/var/lib/postgresql/data
     environment:
-      - POSTGRES_DB=postgres
+      - POSTGRES_DB=company_details
       - POSTGRES_USER=postgres
       - POSTGRES_PASSWORD=postgres
     container_name: postgres_db
@@ -36,7 +36,7 @@ services:
     restart: always
     build:
       context: .
-    command: celery -A core worker -l DEBUG
+    command: celery -A company_details worker -l DEBUG
     volumes:
       - .:/project_x
     container_name: celery

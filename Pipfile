@@ -1,0 +1,43 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+django = "==3.2.9"
+psycopg2 = "*"
+django-chunked-upload = "*"
+gunicorn = "*"
+dj-database-url = "*"
+whitenoise = "*"
+django-datatables-view = "*"
+stripe = "*"
+six = "*"
+django-phonenumber-field = {extras = ["phonenumbers"], version = "*"}
+babel = "*"
+django-crispy-forms = "*"
+django-filter = "*"
+socks = "*"
+dnspython = "*"
+pysocks = "*"
+django-allauth = "*"
+django-phone-verify = "*"
+twilio = "*"
+python-dotenv = "*"
+django-environ = "*"
+python-decouple = "*"
+pandas = "*"
+xlrd = "*"
+excel2json-3 = "*"
+ijson = "*"
+bigjson = "*"
+celery = "*"
+redis = "*"
+ipdb = "*"
+django-cleanup = "*"
+django-kombu = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.9"
